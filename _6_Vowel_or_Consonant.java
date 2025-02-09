@@ -2,7 +2,7 @@ package Java;
 
 import java.util.Scanner;
 
-public class Vowel_or_Consonant {
+public class _6_Vowel_or_Consonant {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         String str = in.next();

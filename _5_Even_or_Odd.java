@@ -2,7 +2,7 @@ package Java;
 
 import java.util.Scanner;
 
-public class Even_or_Odd {
+public class _5_Even_or_Odd {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int a = in.nextInt();

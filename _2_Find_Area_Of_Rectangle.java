@@ -2,7 +2,7 @@ package Java;
 
 import java.util.Scanner;
 
-public class Find_Area_Of_Rectangle {
+public class _2_Find_Area_Of_Rectangle {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Find Area and perimeter of a rectangle");

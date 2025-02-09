@@ -2,7 +2,7 @@ package Java;
 
 import java.util.Scanner;
 
-public class Celsius_To_Fahrenheit {
+public class _3_Celsius_To_Fahrenheit {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Enter the temperature in degree Celsius");

@@ -2,7 +2,7 @@ package Java;
 
 import java.util.Scanner;
 
-public class Find_ASCII_Value_Of_Character {
+public class _1_Find_ASCII_Value_Of_Character {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Enter a character: ");

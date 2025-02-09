@@ -1,6 +1,6 @@
 package Java;
 
-public class Swap_Value_of_Two_Variables {
+public class _4_Swap_Value_of_Two_Variables {
     public static void main(String[] args) {
         int a = 15;
         int b = 18;
